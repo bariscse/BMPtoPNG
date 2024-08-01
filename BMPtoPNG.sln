@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMPtoPNG", "BMPtoPNG\BMPtoPNG.csproj", "{8BB19144-FABD-42E4-BB55-D71069C8AEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB19144-FABD-42E4-BB55-D71069C8AEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB19144-FABD-42E4-BB55-D71069C8AEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB19144-FABD-42E4-BB55-D71069C8AEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB19144-FABD-42E4-BB55-D71069C8AEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F1C674-9660-46A7-BA99-75BCB60F0A33}
+	EndGlobalSection
+EndGlobal
